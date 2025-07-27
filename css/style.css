@@ -19,6 +19,10 @@ ul {
     align-items: center;
 }
 
+.header .left-side {
+    display: flex;
+    align-items: center;
+}
 
 .header  .left-side img {
     width: 130px;
