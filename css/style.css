@@ -70,3 +70,24 @@ text-decoration: none;
     background-color: #fd7776;
     transition: ease-in-out;
 }
+
+.pet{
+    width: 500px;
+    
+}
+
+.hero-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-content-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-content-button button, p {
+    margin-right: 20px;
+}
